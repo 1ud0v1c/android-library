@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/android-library.iml" filepath="$PROJECT_DIR$/android-library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/preferencesholder/preferencesholder.iml" filepath="$PROJECT_DIR$/preferencesholder/preferencesholder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-library.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-library.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/preferencesholder/android-library.preferencesholder.iml" filepath="$PROJECT_DIR$/.idea/modules/preferencesholder/android-library.preferencesholder.iml" />
     </modules>
   </component>
 </project>

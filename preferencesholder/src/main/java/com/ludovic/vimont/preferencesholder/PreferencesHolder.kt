@@ -22,7 +22,7 @@ object PreferencesHolder {
         editor.apply()
     }
 
-    inline operator fun set(key: String, value: Any?) {
+    operator fun set(key: String, value: Any?) {
         when (value) {
             is String? -> edit {
                 it.putString(key, value)
